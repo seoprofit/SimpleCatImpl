@@ -1,0 +1,208 @@
+0 1    1 success cat -b test_cat.txt
+0 2    2 success cat -e test_cat.txt
+0 3    3 success cat -n test_cat.txt
+0 4    4 success cat -s test_cat.txt
+0 5    5 success cat -t test_cat.txt
+0 6    6 success cat -b -e test_cat.txt
+0 7    7 success cat -b -n test_cat.txt
+0 8    8 success cat -b -s test_cat.txt
+0 9    9 success cat -b -t test_cat.txt
+0 10    10 success cat -e -b test_cat.txt
+0 11    11 success cat -e -n test_cat.txt
+0 12    12 success cat -e -s test_cat.txt
+0 13    13 success cat -e -t test_cat.txt
+0 14    14 success cat -n -b test_cat.txt
+0 15    15 success cat -n -e test_cat.txt
+0 16    16 success cat -n -s test_cat.txt
+0 17    17 success cat -n -t test_cat.txt
+0 18    18 success cat -s -b test_cat.txt
+0 19    19 success cat -s -e test_cat.txt
+0 20    20 success cat -s -n test_cat.txt
+0 21    21 success cat -s -t test_cat.txt
+0 22    22 success cat -t -b test_cat.txt
+0 23    23 success cat -t -e test_cat.txt
+0 24    24 success cat -t -n test_cat.txt
+0 25    25 success cat -t -s test_cat.txt
+0 26    26 success cat -b -e -n test_cat.txt
+0 27    27 success cat -b -e -s test_cat.txt
+0 28    28 success cat -b -e -t test_cat.txt
+0 29    29 success cat -b -n -e test_cat.txt
+0 30    30 success cat -b -n -s test_cat.txt
+0 31    31 success cat -b -n -t test_cat.txt
+0 32    32 success cat -b -s -e test_cat.txt
+0 33    33 success cat -b -s -n test_cat.txt
+0 34    34 success cat -b -s -t test_cat.txt
+0 35    35 success cat -b -t -e test_cat.txt
+0 36    36 success cat -b -t -n test_cat.txt
+0 37    37 success cat -b -t -s test_cat.txt
+0 38    38 success cat -e -b -n test_cat.txt
+0 39    39 success cat -e -b -s test_cat.txt
+0 40    40 success cat -e -b -t test_cat.txt
+0 41    41 success cat -e -n -b test_cat.txt
+0 42    42 success cat -e -n -s test_cat.txt
+0 43    43 success cat -e -n -t test_cat.txt
+0 44    44 success cat -e -s -b test_cat.txt
+0 45    45 success cat -e -s -n test_cat.txt
+0 46    46 success cat -e -s -t test_cat.txt
+0 47    47 success cat -e -t -b test_cat.txt
+0 48    48 success cat -e -t -n test_cat.txt
+0 49    49 success cat -e -t -s test_cat.txt
+0 50    50 success cat -n -b -e test_cat.txt
+0 51    51 success cat -n -b -s test_cat.txt
+0 52    52 success cat -n -b -t test_cat.txt
+0 53    53 success cat -n -e -b test_cat.txt
+0 54    54 success cat -n -e -s test_cat.txt
+0 55    55 success cat -n -e -t test_cat.txt
+0 56    56 success cat -n -s -b test_cat.txt
+0 57    57 success cat -n -s -e test_cat.txt
+0 58    58 success cat -n -s -t test_cat.txt
+0 59    59 success cat -n -t -b test_cat.txt
+0 60    60 success cat -n -t -e test_cat.txt
+0 61    61 success cat -n -t -s test_cat.txt
+0 62    62 success cat -s -b -e test_cat.txt
+0 63    63 success cat -s -b -n test_cat.txt
+0 64    64 success cat -s -b -t test_cat.txt
+0 65    65 success cat -s -e -b test_cat.txt
+0 66    66 success cat -s -e -n test_cat.txt
+0 67    67 success cat -s -e -t test_cat.txt
+0 68    68 success cat -s -n -b test_cat.txt
+0 69    69 success cat -s -n -e test_cat.txt
+0 70    70 success cat -s -n -t test_cat.txt
+0 71    71 success cat -s -t -b test_cat.txt
+0 72    72 success cat -s -t -e test_cat.txt
+0 73    73 success cat -s -t -n test_cat.txt
+0 74    74 success cat -t -b -e test_cat.txt
+0 75    75 success cat -t -b -n test_cat.txt
+0 76    76 success cat -t -b -s test_cat.txt
+0 77    77 success cat -t -e -b test_cat.txt
+0 78    78 success cat -t -e -n test_cat.txt
+0 79    79 success cat -t -e -s test_cat.txt
+0 80    80 success cat -t -n -b test_cat.txt
+0 81    81 success cat -t -n -e test_cat.txt
+0 82    82 success cat -t -n -s test_cat.txt
+0 83    83 success cat -t -s -b test_cat.txt
+0 84    84 success cat -t -s -e test_cat.txt
+0 85    85 success cat -t -s -n test_cat.txt
+0 86    86 success cat -b -e -n -s test_cat.txt
+0 87    87 success cat -b -e -n -t test_cat.txt
+0 88    88 success cat -b -e -s -n test_cat.txt
+0 89    89 success cat -b -e -s -t test_cat.txt
+0 90    90 success cat -b -e -t -n test_cat.txt
+0 91    91 success cat -b -e -t -s test_cat.txt
+0 92    92 success cat -b -n -e -s test_cat.txt
+0 93    93 success cat -b -n -e -t test_cat.txt
+0 94    94 success cat -b -n -s -e test_cat.txt
+0 95    95 success cat -b -n -s -t test_cat.txt
+0 96    96 success cat -b -n -t -e test_cat.txt
+0 97    97 success cat -b -n -t -s test_cat.txt
+0 98    98 success cat -b -s -e -n test_cat.txt
+0 99    99 success cat -b -s -e -t test_cat.txt
+0 100    100 success cat -b -s -n -e test_cat.txt
+0 101    101 success cat -b -s -n -t test_cat.txt
+0 102    102 success cat -b -s -t -e test_cat.txt
+0 103    103 success cat -b -s -t -n test_cat.txt
+0 104    104 success cat -b -t -e -n test_cat.txt
+0 105    105 success cat -b -t -e -s test_cat.txt
+0 106    106 success cat -b -t -n -e test_cat.txt
+0 107    107 success cat -b -t -n -s test_cat.txt
+0 108    108 success cat -b -t -s -e test_cat.txt
+0 109    109 success cat -b -t -s -n test_cat.txt
+0 110    110 success cat -e -b -n -s test_cat.txt
+0 111    111 success cat -e -b -n -t test_cat.txt
+0 112    112 success cat -e -b -s -n test_cat.txt
+0 113    113 success cat -e -b -s -t test_cat.txt
+0 114    114 success cat -e -b -t -n test_cat.txt
+0 115    115 success cat -e -b -t -s test_cat.txt
+0 116    116 success cat -e -n -b -s test_cat.txt
+0 117    117 success cat -e -n -b -t test_cat.txt
+0 118    118 success cat -e -n -s -b test_cat.txt
+0 119    119 success cat -e -n -s -t test_cat.txt
+0 120    120 success cat -e -n -t -b test_cat.txt
+0 121    121 success cat -e -n -t -s test_cat.txt
+0 122    122 success cat -e -s -b -n test_cat.txt
+0 123    123 success cat -e -s -b -t test_cat.txt
+0 124    124 success cat -e -s -n -b test_cat.txt
+0 125    125 success cat -e -s -n -t test_cat.txt
+0 126    126 success cat -e -s -t -b test_cat.txt
+0 127    127 success cat -e -s -t -n test_cat.txt
+0 128    128 success cat -e -t -b -n test_cat.txt
+0 129    129 success cat -e -t -b -s test_cat.txt
+0 130    130 success cat -e -t -n -b test_cat.txt
+0 131    131 success cat -e -t -n -s test_cat.txt
+0 132    132 success cat -e -t -s -b test_cat.txt
+0 133    133 success cat -e -t -s -n test_cat.txt
+0 134    134 success cat -n -b -e -s test_cat.txt
+0 135    135 success cat -n -b -e -t test_cat.txt
+0 136    136 success cat -n -b -s -e test_cat.txt
+0 137    137 success cat -n -b -s -t test_cat.txt
+0 138    138 success cat -n -b -t -e test_cat.txt
+0 139    139 success cat -n -b -t -s test_cat.txt
+0 140    140 success cat -n -e -b -s test_cat.txt
+0 141    141 success cat -n -e -b -t test_cat.txt
+0 142    142 success cat -n -e -s -b test_cat.txt
+0 143    143 success cat -n -e -s -t test_cat.txt
+0 144    144 success cat -n -e -t -b test_cat.txt
+0 145    145 success cat -n -e -t -s test_cat.txt
+0 146    146 success cat -n -s -b -e test_cat.txt
+0 147    147 success cat -n -s -b -t test_cat.txt
+0 148    148 success cat -n -s -e -b test_cat.txt
+0 149    149 success cat -n -s -e -t test_cat.txt
+0 150    150 success cat -n -s -t -b test_cat.txt
+0 151    151 success cat -n -s -t -e test_cat.txt
+0 152    152 success cat -n -t -b -e test_cat.txt
+0 153    153 success cat -n -t -b -s test_cat.txt
+0 154    154 success cat -n -t -e -b test_cat.txt
+0 155    155 success cat -n -t -e -s test_cat.txt
+0 156    156 success cat -n -t -s -b test_cat.txt
+0 157    157 success cat -n -t -s -e test_cat.txt
+0 158    158 success cat -s -b -e -n test_cat.txt
+0 159    159 success cat -s -b -e -t test_cat.txt
+0 160    160 success cat -s -b -n -e test_cat.txt
+0 161    161 success cat -s -b -n -t test_cat.txt
+0 162    162 success cat -s -b -t -e test_cat.txt
+0 163    163 success cat -s -b -t -n test_cat.txt
+0 164    164 success cat -s -e -b -n test_cat.txt
+0 165    165 success cat -s -e -b -t test_cat.txt
+0 166    166 success cat -s -e -n -b test_cat.txt
+0 167    167 success cat -s -e -n -t test_cat.txt
+0 168    168 success cat -s -e -t -b test_cat.txt
+0 169    169 success cat -s -e -t -n test_cat.txt
+0 170    170 success cat -s -n -b -e test_cat.txt
+0 171    171 success cat -s -n -b -t test_cat.txt
+0 172    172 success cat -s -n -e -b test_cat.txt
+0 173    173 success cat -s -n -e -t test_cat.txt
+0 174    174 success cat -s -n -t -b test_cat.txt
+0 175    175 success cat -s -n -t -e test_cat.txt
+0 176    176 success cat -s -t -b -e test_cat.txt
+0 177    177 success cat -s -t -b -n test_cat.txt
+0 178    178 success cat -s -t -e -b test_cat.txt
+0 179    179 success cat -s -t -e -n test_cat.txt
+0 180    180 success cat -s -t -n -b test_cat.txt
+0 181    181 success cat -s -t -n -e test_cat.txt
+0 182    182 success cat -t -b -e -n test_cat.txt
+0 183    183 success cat -t -b -e -s test_cat.txt
+0 184    184 success cat -t -b -n -e test_cat.txt
+0 185    185 success cat -t -b -n -s test_cat.txt
+0 186    186 success cat -t -b -s -e test_cat.txt
+0 187    187 success cat -t -b -s -n test_cat.txt
+0 188    188 success cat -t -e -b -n test_cat.txt
+0 189    189 success cat -t -e -b -s test_cat.txt
+0 190    190 success cat -t -e -n -b test_cat.txt
+0 191    191 success cat -t -e -n -s test_cat.txt
+0 192    192 success cat -t -e -s -b test_cat.txt
+0 193    193 success cat -t -e -s -n test_cat.txt
+0 194    194 success cat -t -n -b -e test_cat.txt
+0 195    195 success cat -t -n -b -s test_cat.txt
+0 196    196 success cat -t -n -e -b test_cat.txt
+0 197    197 success cat -t -n -e -s test_cat.txt
+0 198    198 success cat -t -n -s -b test_cat.txt
+0 199    199 success cat -t -n -s -e test_cat.txt
+0 200    200 success cat -t -s -b -e test_cat.txt
+0 201    201 success cat -t -s -b -n test_cat.txt
+0 202    202 success cat -t -s -e -b test_cat.txt
+0 203    203 success cat -t -s -e -n test_cat.txt
+0 204    204 success cat -t -s -n -b test_cat.txt
+0 205    205 success cat -t -s -n -e test_cat.txt
+FAIL: 0
+SUCCESS: 205
+ALL: 205
